@@ -31,14 +31,8 @@ Eloquy 不把练习做成单次问答，而是尝试将提问、表达、追问�
 
 ### 01 — Interview practice
 
-<p align="center">
-  <img src="./docs/assets/lin-zhixia.png" alt="林知夏，Eloquy 女性面试官" width="150" />
-</p>
-
-<img src="./docs/assets/demo-03.svg" alt="Interview practice flow" width="100%" />
-
 - 用逐轮推进替代一次性长问卷，让追问有明确的上下文。
-- 林知夏是实际产品中使用的女性考官形象；展示图与真实前端共用同一素材。
+- 真实产品使用女性考官形象，并根据提问、倾听与思考阶段切换状态。
 - 将回答中的具体经历转化为可回看的亮点、缺口和下一步练习建议。
 - 展示版只呈现前端流程；真实简历解析、模型编排与存储均保留在私有实现中。
 
